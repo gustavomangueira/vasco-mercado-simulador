@@ -1,0 +1,8 @@
+# Preferir não versionar arquivos temporários locais
+work/
+*.tmp
+*.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
